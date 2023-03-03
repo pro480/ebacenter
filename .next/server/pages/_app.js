@@ -376,7 +376,7 @@ function Header() {
                                             className: "mr-5 hidden hover:scale-110 md:flex",
                                             children: "Logout"
                                         }) : /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx((next_link__WEBPACK_IMPORTED_MODULE_4___default()), {
-                                            href: "/adminLogin",
+                                            href: "/Users/I/Desktop/ebacenter/pages/adminLogin",
                                             children: /*#__PURE__*/ react_jsx_runtime__WEBPACK_IMPORTED_MODULE_0__.jsx("a", {
                                                 className: "mr-5 hidden hover:scale-110 md:flex",
                                                 children: "ADMIN"
